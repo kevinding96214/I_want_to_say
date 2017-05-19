@@ -1,0 +1,9 @@
+E:\ClassProgram\I_Want_To_Say\I_Want_To_Say\bin\Debug\I_Want_To_Say.exe.config
+E:\ClassProgram\I_Want_To_Say\I_Want_To_Say\bin\Debug\I_Want_To_Say.exe
+E:\ClassProgram\I_Want_To_Say\I_Want_To_Say\bin\Debug\I_Want_To_Say.pdb
+E:\ClassProgram\I_Want_To_Say\I_Want_To_Say\obj\Debug\I_Want_To_Say.csprojResolveAssemblyReference.cache
+E:\ClassProgram\I_Want_To_Say\I_Want_To_Say\obj\Debug\I_Want_To_Say.Properties.Resources.resources
+E:\ClassProgram\I_Want_To_Say\I_Want_To_Say\obj\Debug\I_Want_To_Say.csproj.GenerateResource.Cache
+E:\ClassProgram\I_Want_To_Say\I_Want_To_Say\obj\Debug\I_Want_To_Say.exe
+E:\ClassProgram\I_Want_To_Say\I_Want_To_Say\obj\Debug\I_Want_To_Say.pdb
+E:\ClassProgram\I_Want_To_Say\I_Want_To_Say\obj\Debug\I_Want_To_Say.大声说出来.resources
